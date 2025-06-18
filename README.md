@@ -9,19 +9,19 @@ I'm a data and strategy analyst based in the United States, and I'm passionate a
 ## 🧰 Toolbox
 
 **Backend Development:**  
-Python SQL R Data Modeling Data Pipelines
+`Python` `Java` `JavaScript` `Node.js` `Data Structures and Algorithms`
 
 **Web Development:**  
-React JavaScript HTML CSS REST APIs Framer Motion
+`React` `JavaScript` `HTML` `CSS` `Tailwind`
 
 **Data Processing and Analytics:**  
-Power BI Tableau Pandas Scikit-Learn Jupyter Forecasting
+`SQL` `PostgreSQL` `MongoDB` `Spark` `Hadoop`
 
 **Version Control:**  
-Git GitHub
+`Git` `GitLab`
 
 **Tools/Services:**  
-Azure AWS Azure Data Factory SFTP Docker Jenkins CI/CD GitHub Actions
+`AWS` `S3` `MySQL` `Docker` `Jenkins` `Jira` `Maven` `Microservices` `REST APIs`
 
 ---
 
