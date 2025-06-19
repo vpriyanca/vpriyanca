@@ -2,7 +2,7 @@
 
 I'm a data and strategy analyst based in the United States, and I'm passionate about transforming data into solutions that drive business outcomes and elevate user experience.
 
-- 🔗 Check out my [website](https://vpriyanca.vercel.app) to learn more about me.
+- 🔗 Check out my [website](https://vpriyanka.vercel.app) to learn more about me.
 
 
 ## 🧰 Toolbox
